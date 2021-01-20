@@ -14,6 +14,14 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
+
+## Credit Learning
+
+https://devahoy.com/blog/2020/03/getting-started-with-nextjs/
+https://nextjs.org/docs/routing/introduction
+https://github.com/vercel/next.js/tree/master
+
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
