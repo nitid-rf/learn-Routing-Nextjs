@@ -17,9 +17,9 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 ## Credit Learning
 
-https://devahoy.com/blog/2020/03/getting-started-with-nextjs/
-https://nextjs.org/docs/routing/introduction
-https://github.com/vercel/next.js/tree/master
+- https://devahoy.com/blog/2020/03/getting-started-with-nextjs/
+- https://nextjs.org/docs/routing/introduction
+- https://github.com/vercel/next.js/tree/master
 
 
 ## Learn More
